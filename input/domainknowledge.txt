@@ -1,0 +1,13 @@
+data_science data_mining ancestor
+machine_learning supervised_learning ancestor
+classification ensembles ancestor
+classification binary_classification ancestor
+F1 micro-f1 ancestor
+clustering density-based_clustering ancestor
+frequent_itemset_mining apriori ancestor
+neural_networks perceptron ancestor
+classification regression sibling
+sensitivity specificity sibling
+F1 DCG sibling
+recommendation recommender_systems synonym
+tensor_factorization tensor_decomposition synonym

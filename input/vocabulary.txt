@@ -1,0 +1,215 @@
+data science
+data mining
+frequent pattern mining
+mining frequent patterns
+frequent patterns
+frequent itemset mining
+mining frequent itemsets
+frequent itemsets
+apriori
+eclat
+fp-growth
+mining closed patterns
+closed patterns
+closet
+closet +
+sequential pattern mining
+mining sequential patterns
+GSP
+SPADE
+prefixspan
+subgraph pattern mining
+subgraph mining
+closegraph
+gspan
+clospan
+association rule mining
+association mining
+mining association rules
+classification
+text categorization
+image classification
+face recognition
+spam detection
+fraud detection
+entity recognition
+relation extraction
+relational classification
+relation classification
+knn
+k nearest neighbor
+decision trees
+decision tree
+CART
+gini index
+ID3
+information gain
+C4.5
+gain ratio
+bayesian learning
+bayes theorem
+naive bayes
+NB
+bayesian networks
+generative model
+MLE
+maximum likelihood estimation
+topic model
+topic models
+LDA
+latent dirichlet allocation
+support vector machines
+support vector machine
+svms
+svm
+linear svm
+kernel svm
+ls-svm
+least squares support vector machine
+vmls-svm
+libsvm
+artificial neural networks
+neural networks
+activation
+sigmoid
+tanh
+hidden layer
+hidden layers
+perceptron
+ensembles
+ensemble
+bagging
+random forests
+random forest
+boosting
+adaboost
+bootstrapping
+hold-out validation
+cross validation
+accuracy
+specificity
+TPR
+truepositive rate
+true positive rate
+sensitivity
+FPR
+false positive rate
+false-positive rate
+precision
+recall
+f measure
+f-measure
+f-score
+F1
+f1 measure
+f1-measure
+f1 score
+f1-score
+micro f1
+micro-f1
+macro f1
+macro-f1
+AUC
+area under the curve
+area under curve
+MRR
+mean reciprocal rank
+MAP
+mean average precision
+DCG
+discounted cumulative gain
+discounted cumulative gain measure
+NDCG
+normalized discounted cumulative gain
+normalized discounted cumulative gain measure
+NDCG @ k
+MAE
+mean absolute error
+RMSE
+root mean squared error
+root mean square error
+root-mean-square error
+robustness
+binary classification
+multi-class classification
+multi-label classification
+multiclass classification
+multilabel classification
+regression
+regression analysis
+linear regression
+non-linear regression
+logistic regression
+gaussian process regression
+SVR
+support vector regression
+multivariate regression
+clustering
+cluster analysis
+community detection
+document clustering
+k-partitioning
+k-means clustering
+k-means
+kernel k-means
+k-medoids clustering
+k-medoids
+density-based clustering
+dbscan
+hierarchical clustering
+spectral clustering
+principal component analysis
+principal components analysis
+PCA
+principal components
+singular value decomposition
+SVD
+matrix factorization
+gradient descent
+SGD
+stochastic gradient descent
+CSGD
+constrained stochastic gradient descent
+coordinate descent
+dual coordinate descent
+block coordinate gradient descent
+NMF
+nonnegative matrix factorization
+non negative matrix factorization
+non-negative matrix factorization
+PMF
+probabilistic matrix factorization
+tensor factorization
+tensor decomposition
+PARAFAC
+rand index
+adjusted rand index
+NMI
+normalized mutual information
+purity
+outlier detection
+outlier analysis
+anomaly detection
+visualization
+dimensionality reduction
+feature reduction
+feature selection
+feature extraction
+similarity search
+recommender systems
+recommendation
+recommendation systems
+link recommendation
+link prediction
+link detection
+machine learning
+supervised learning
+supervised
+semi-supervised learning
+semi supervised learning
+semi-supervised
+semi supervised
+unsupervised learning
+unsupervised
+artificial intelligence
+knowledge discovery

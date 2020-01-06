@@ -1,0 +1,451 @@
+data_science	data_mining	$PROBLEM	$PROBLEM	ancestor	999999	
+machine_learning	supervised_learning	$PROBLEM	$METHOD	ancestor	999999	
+classification	ensembles	$PROBLEM	$METHOD	ancestor	999999	
+classification	binary_classification	$PROBLEM	$PROBLEM	ancestor	999999	
+F1	micro-f1	$METRIC	$METRIC	ancestor	999999	
+clustering	density-based_clustering	$PROBLEM	$METHOD	ancestor	999999	
+frequent_itemset_mining	apriori	$PROBLEM	$METHOD	ancestor	999999	
+neural_networks	perceptron	$METHOD	$METHOD	ancestor	999999	
+classification	regression	$PROBLEM	$PROBLEM	sibling	999999	
+sensitivity	specificity	$METRIC	$METRIC	sibling	999999	
+F1	DCG	$METRIC	$METRIC	sibling	999999	
+recommendation	recommender_systems	$PROBLEM	$PROBLEM	synonym	999999	
+tensor_factorization	tensor_decomposition	$METHOD	$METHOD	synonym	999999	
+decision_tree	decision_trees	$METHOD	$METHOD	synonym	999999	
+discounted_cumulative_gain	discounted_cumulative_gain_measure	$METRIC	$METRIC	synonym	999999	
+ensemble	ensembles	$METHOD	$METHOD	synonym	999999	
+false-positive_rate	false_positive_rate	$METRIC	$METRIC	synonym	999999	
+k-means	k-means_clustering	$METHOD	$METHOD	synonym	999999	
+macro-f1	macro_f1	$METRIC	$METRIC	synonym	999999	
+micro-f1	micro_f1	$METRIC	$METRIC	synonym	999999	
+non-negative_matrix_factorization	non_negative_matrix_factorization	$METHOD	$METHOD	synonym	999999	
+normalized_discounted_cumulative_gain	normalized_discounted_cumulative_gain_measure	$METRIC	$METRIC	synonym	999999	
+random_forest	random_forests	$METHOD	$METHOD	synonym	999999	
+regression	regression_analysis	$PROBLEM	$PROBLEM	synonym	999999	
+root-mean-square_error	root_mean_square_error	$METRIC	$METRIC	synonym	999999	
+semi-supervised	semi-supervised_learning	$METHOD	$METHOD	synonym	999999	
+semi-supervised_learning	semi_supervised_learning	$METHOD	$METHOD	synonym	999999	
+supervised	supervised_learning	$METHOD	$METHOD	synonym	999999	
+support_vector_machine	support_vector_machines	$METHOD	$METHOD	synonym	999999	
+svm	svms	$METHOD	$METHOD	synonym	999999	
+topic_model	topic_models	$METHOD	$METHOD	synonym	999999	
+unsupervised	unsupervised_learning	$METHOD	$METHOD	synonym	999999	
+discounted_cumulative_gain_measure	normalized_discounted_cumulative_gain_measure	$METRIC	$METRIC	ancestor	999999	
+discounted_cumulative_gain	normalized_discounted_cumulative_gain	$METRIC	$METRIC	ancestor	999999	
+support_vector_machine	least_squares_support_vector_machine	$METHOD	$METHOD	ancestor	999999	
+matrix_factorization	probabilistic_matrix_factorization	$METHOD	$METHOD	ancestor	999999	
+neural_networks	artificial_neural_networks	$METHOD	$METHOD	ancestor	999999	
+stochastic_gradient_descent	constrained_stochastic_gradient_descent	$METHOD	$METHOD	ancestor	999999	
+precision	recall	$METRIC	$METRIC	sibling	283	
+LDA	latent_dirichlet_allocation	$METHOD	$METHOD	synonym	249	
+support_vector_machine	svm	$METHOD	$METHOD	synonym	216	
+data_mining	machine_learning	$PROBLEM	$PROBLEM	sibling	148	
+SVD	singular_value_decomposition	$METHOD	$METHOD	synonym	143	
+MAP	mean_average_precision	$METRIC	$METRIC	synonym	138	
+support_vector_machines	svm	$METHOD	$METHOD	synonym	125	
+PCA	principal_component_analysis	$METHOD	$METHOD	synonym	105	
+classification	clustering	$PROBLEM	$PROBLEM	sibling	99	
+classification	regression	$PROBLEM	$PROBLEM	sibling	96	
+SGD	stochastic_gradient_descent	$METHOD	$METHOD	synonym	93	
+support_vector_machines	svms	$METHOD	$METHOD	synonym	89	
+NMI	normalized_mutual_information	$METRIC	$METRIC	synonym	80	
+MRR	mean_reciprocal_rank	$METRIC	$METRIC	synonym	79	
+MAE	mean_absolute_error	$METRIC	$METRIC	synonym	75	
+supervised	unsupervised	$METHOD	$METHOD	sibling	74	
+NDCG	normalized_discounted_cumulative_gain	$METRIC	$METRIC	synonym	68	
+NB	naive_bayes	$METHOD	$METHOD	synonym	60	
+AUC	area_under_the_curve	$METRIC	$METRIC	synonym	55	
+RMSE	root_mean_square_error	$METRIC	$METRIC	synonym	50	
+NMF	non-negative_matrix_factorization	$METHOD	$METHOD	synonym	50	
+MLE	maximum_likelihood_estimation	$METHOD	$METHOD	synonym	48	
+RMSE	root_mean_squared_error	$METRIC	$METRIC	synonym	40	
+NMF	nonnegative_matrix_factorization	$METHOD	$METHOD	synonym	38	
+SVR	support_vector_regression	$METHOD	$METHOD	synonym	31	
+DCG	discounted_cumulative_gain	$METRIC	$METRIC	synonym	31	
+clustering	k-means	$PROBLEM	$METHOD	ancestor	30	algorithms:18|methods:6|techniques:3|approaches:1|schemes:1
+data_mining	clustering	$PROBLEM	$PROBLEM	ancestor	30	tasks:15|algorithms:5|techniques:4|applications:2|operations:1
+data_mining	classification	$PROBLEM	$PROBLEM	ancestor	28	tasks:10|algorithms:6|techniques:2|projects:1|workloads:1|problems:1|processes:1|analyses:1|applications:1
+MAP	NDCG	$METRIC	$METRIC	sibling	21	
+FPR	false_positive_rate	$METRIC	$METRIC	synonym	18	
+F1	recall	$METRIC	$METRIC	sibling	17	
+PMF	probabilistic_matrix_factorization	$METHOD	$METHOD	synonym	17	
+semi-supervised	supervised	$METHOD	$METHOD	sibling	17	
+AUC	area_under_curve	$METRIC	$METRIC	synonym	16	
+F1	precision	$METRIC	$METRIC	sibling	16	
+MAP	MRR	$METRIC	$METRIC	sibling	15	
+MAE	RMSE	$METRIC	$METRIC	sibling	14	
+topic_models	latent_dirichlet_allocation	$METHOD	$METHOD	ancestor	14	
+bagging	boosting	$METHOD	$METHOD	sibling	14	
+semi-supervised	unsupervised	$METHOD	$METHOD	sibling	13	
+naive_bayes	svm	$METHOD	$METHOD	sibling	13	
+logistic_regression	svm	$METHOD	$METHOD	sibling	12	
+supervised	unsupervised_learning	$METHOD	$METHOD	sibling	12	
+accuracy	precision	$METRIC	$METRIC	sibling	12	
+PCA	principal_components_analysis	$METHOD	$METHOD	synonym	12	
+TPR	true_positive_rate	$METRIC	$METRIC	synonym	11	
+machine_learning	clustering	$PROBLEM	$PROBLEM	ancestor	10	tasks:5|techniques:2|methods:2|problems:1
+accuracy	recall	$METRIC	$METRIC	sibling	10	
+macro-f1	micro-f1	$METRIC	$METRIC	sibling	10	
+topic_models	LDA	$METHOD	$METHOD	ancestor	9	
+f-measure	recall	$METRIC	$METRIC	sibling	9	
+decision_trees	naive_bayes	$METHOD	$METHOD	sibling	9	
+logistic_regression	support_vector_machines	$METHOD	$METHOD	sibling	9	
+AUC	accuracy	$METRIC	$METRIC	sibling	9	
+classification	naive_bayes	$PROBLEM	$METHOD	ancestor	9	algorithms:3|techniques:2|methods:2
+data_mining	knowledge_discovery	$PROBLEM	$PROBLEM	sibling	8	
+f-measure	precision	$METRIC	$METRIC	sibling	8	
+NB	svm	$METHOD	$METHOD	sibling	8	
+classification	support_vector_machines	$PROBLEM	$METHOD	ancestor	8	models:2|tasks:2|techniques:1|algorithms:1|methods:1
+decision_trees	neural_networks	$METHOD	$METHOD	sibling	8	
+decision_trees	support_vector_machines	$METHOD	$METHOD	sibling	8	
+C4.5	naive_bayes	$METHOD	$METHOD	sibling	8	
+data_mining	association_rule_mining	$PROBLEM	$PROBLEM	ancestor	7	tasks:2|techniques:2|algorithms:1|problems:1
+association_rule_mining	classification	$PROBLEM	$PROBLEM	sibling	7	
+decision_tree	naive_bayes	$METHOD	$METHOD	sibling	7	
+decision_trees	logistic_regression	$METHOD	$METHOD	sibling	7	
+clustering	regression	$PROBLEM	$PROBLEM	sibling	7	
+AUC	recall	$METRIC	$METRIC	sibling	7	
+logistic_regression	naive_bayes	$METHOD	$METHOD	sibling	7	
+machine_learning	classification	$PROBLEM	$PROBLEM	ancestor	6	tasks:5|techniques:1
+classification	svm	$PROBLEM	$METHOD	ancestor	6	algorithms:2|models:2|techniques:1|methods:1
+classification	logistic_regression	$PROBLEM	$METHOD	ancestor	6	algorithms:3|methods:2
+F1	f-measure	$METRIC	$METRIC	synonym	6	
+clustering	hierarchical_clustering	$PROBLEM	$METHOD	ancestor	6	algorithms:3|methods:2|techniques:1
+hierarchical_clustering	k-means	$METHOD	$METHOD	sibling	6	
+association_rule_mining	clustering	$PROBLEM	$PROBLEM	sibling	6	
+clustering	community_detection	$PROBLEM	$PROBLEM	sibling	6	
+classification	document_clustering	$PROBLEM	$PROBLEM	sibling	6	
+AUC	precision	$METRIC	$METRIC	sibling	6	
+naive_bayes	support_vector_machines	$METHOD	$METHOD	sibling	6	
+clustering	outlier_detection	$PROBLEM	$PROBLEM	sibling	6	
+machine_learning	svm	$PROBLEM	$METHOD	ancestor	5	algorithms:3|models:1|techniques:1
+machine_learning	decision_trees	$PROBLEM	$METHOD	ancestor	5	techniques:3|approaches:1|algorithms:1
+semi-supervised_learning	supervised	$METHOD	$METHOD	sibling	5	
+k_nearest_neighbor	knn	$METHOD	$METHOD	synonym	5	
+matrix_factorization	singular_value_decomposition	$METHOD	$METHOD	ancestor	5	techniques:3|methods:1
+GSP	prefixspan	$METHOD	$METHOD	sibling	5	
+community_detection	link_prediction	$PROBLEM	$PROBLEM	sibling	5	
+data_mining	anomaly_detection	$PROBLEM	$PROBLEM	ancestor	5	applications:2|tasks:2|problems:1
+machine_learning	support_vector_machines	$PROBLEM	$METHOD	ancestor	4	techniques:3|algorithms:1
+knn	svm	$METHOD	$METHOD	sibling	4	
+data_mining	regression	$PROBLEM	$PROBLEM	ancestor	4	tasks:2
+clustering	spectral_clustering	$PROBLEM	$METHOD	ancestor	4	methods:2|algorithms:1|techniques:1
+machine_learning	logistic_regression	$PROBLEM	$METHOD	ancestor	4	algorithms:2|techniques:1|approaches:1
+classification	support_vector_machine	$PROBLEM	$METHOD	ancestor	4	algorithms:3|methods:1
+accuracy	normalized_mutual_information	$METRIC	$METRIC	sibling	4	
+clustering	link_prediction	$PROBLEM	$PROBLEM	sibling	4	
+C4.5	CART	$METHOD	$METHOD	sibling	4	
+CSGD	constrained_stochastic_gradient_descent	$METHOD	$METHOD	synonym	4	
+ensemble	bagging	$METHOD	$METHOD	ancestor	4	methods:4
+classification	decision_trees	$PROBLEM	$METHOD	ancestor	4	methods:1|techniques:1|algorithms:1
+naive_bayes	support_vector_machine	$METHOD	$METHOD	sibling	4	
+sensitivity	specificity	$METRIC	$METRIC	sibling	4	
+non-negative_matrix_factorization	singular_value_decomposition	$METHOD	$METHOD	sibling	4	
+data_mining	visualization	$PROBLEM	$PROBLEM	sibling	4	
+anomaly_detection	clustering	$PROBLEM	$PROBLEM	sibling	4	
+clustering	dimensionality_reduction	$PROBLEM	$PROBLEM	sibling	4	
+dimensionality_reduction	PCA	$PROBLEM	$METHOD	ancestor	4	techniques:2|methods:2
+supervised_learning	support_vector_machines	$METHOD	$METHOD	ancestor	4	algorithms:2|machines:1
+link_prediction	link_recommendation	$PROBLEM	$PROBLEM	sibling	3	
+artificial_intelligence	data_mining	$PROBLEM	$PROBLEM	sibling	3	
+classification	frequent_itemset_mining	$PROBLEM	$PROBLEM	sibling	3	
+decision_tree	C4.5	$METHOD	$METHOD	ancestor	3	algorithms:2|systems:1
+decision_tree	support_vector_machines	$METHOD	$METHOD	sibling	3	
+classification	feature_extraction	$PROBLEM	$PROBLEM	sibling	3	
+decision_trees	random_forests	$METHOD	$METHOD	sibling	3	
+classification	outlier_detection	$PROBLEM	$PROBLEM	sibling	3	
+neural_networks	support_vector_machines	$METHOD	$METHOD	sibling	3	
+classification	link_prediction	$PROBLEM	$PROBLEM	sibling	3	
+clustering	dbscan	$PROBLEM	$METHOD	ancestor	3	algorithms:2|methods:1
+decision_tree	svm	$METHOD	$METHOD	sibling	3	
+MRR	NDCG	$METRIC	$METRIC	sibling	3	
+decision_trees	svm	$METHOD	$METHOD	sibling	3	
+data_mining	outlier_detection	$PROBLEM	$PROBLEM	ancestor	3	tasks:1|applications:1|analyses:1
+classification	C4.5	$PROBLEM	$METHOD	ancestor	3	models:1|algorithms:1|systems:1
+data_mining	feature_selection	$PROBLEM	$PROBLEM	ancestor	3	applications:2|tasks:1
+anomaly_detection	feature_selection	$PROBLEM	$PROBLEM	sibling	3	
+NMF	k-means	$METHOD	$METHOD	sibling	3	
+data_mining	naive_bayes	$PROBLEM	$METHOD	ancestor	3	methods:2|approaches:1
+sequential_pattern_mining	GSP	$PROBLEM	$METHOD	ancestor	3	algorithms:1
+apriori	fp-growth	$METHOD	$METHOD	sibling	3	
+hierarchical_clustering	k-medoids	$METHOD	$METHOD	sibling	3	
+clustering	non-negative_matrix_factorization	$PROBLEM	$METHOD	ancestor	3	algorithms:2|methods:1
+dimensionality_reduction	regression	$PROBLEM	$PROBLEM	sibling	3	
+unsupervised_learning	k-means	$METHOD	$METHOD	ancestor	3	algorithms:2
+ensemble	boosting	$METHOD	$METHOD	ancestor	3	methods:3
+NMF	SVD	$METHOD	$METHOD	sibling	3	
+clustering	machine_learning	$PROBLEM	$PROBLEM	sibling	3	
+PMF	SVD	$METHOD	$METHOD	sibling	3	
+F1	f1-measure	$METRIC	$METRIC	synonym	2	
+machine_learning	neural_networks	$PROBLEM	$METHOD	ancestor	2	methods:1|techniques:1
+classification	knn	$PROBLEM	$METHOD	ancestor	2	techniques:2
+f-score	recall	$METRIC	$METRIC	sibling	2	
+supervised_learning	unsupervised	$METHOD	$METHOD	sibling	2	
+classification	machine_learning	$PROBLEM	$PROBLEM	sibling	2	
+data_mining	frequent_itemset_mining	$PROBLEM	$PROBLEM	ancestor	2	algorithms:1|topics:1
+classification	text_categorization	$PROBLEM	$PROBLEM	ancestor	2	problems:1|applications:1
+apriori	eclat	$METHOD	$METHOD	sibling	2	
+classification	feature_selection	$PROBLEM	$PROBLEM	sibling	2	
+least_squares_support_vector_machine	ls-svm	$METHOD	$METHOD	synonym	2	
+hierarchical_clustering	spectral_clustering	$METHOD	$METHOD	sibling	2	
+feature_selection	information_gain	$PROBLEM	$METRIC	ancestor	2	measures:1|techniques:1
+topic_model	LDA	$METHOD	$METHOD	ancestor	2	
+dimensionality_reduction	principal_component_analysis	$PROBLEM	$METHOD	ancestor	2	methods:1|approaches:1
+bayesian_networks	support_vector_machines	$METHOD	$METHOD	sibling	2	
+F1	accuracy	$METRIC	$METRIC	sibling	2	
+adaboost	support_vector_machines	$METHOD	$METHOD	sibling	2	
+GSP	SPADE	$METHOD	$METHOD	sibling	2	
+SPADE	prefixspan	$METHOD	$METHOD	sibling	2	
+gini_index	information_gain	$METRIC	$METRIC	sibling	2	
+AUC	NDCG	$METRIC	$METRIC	sibling	2	
+density-based_clustering	dbscan	$METHOD	$METHOD	ancestor	2	algorithms:1
+bagging	random_forests	$METHOD	$METHOD	sibling	2	
+linear_svm	logistic_regression	$METHOD	$METHOD	sibling	2	
+AUC	MAP	$METRIC	$METRIC	sibling	2	
+NDCG	precision	$METRIC	$METRIC	sibling	2	
+clustering	NMF	$PROBLEM	$METHOD	ancestor	2	algorithms:1|methods:1
+data_mining	support_vector_machines	$PROBLEM	$METHOD	ancestor	2	methods:1|topics:1
+unsupervised_learning	clustering	$METHOD	$PROBLEM	ancestor	2	methods:2
+accuracy	sensitivity	$METRIC	$METRIC	sibling	2	
+perceptron	svm	$METHOD	$METHOD	sibling	2	
+knn	linear_svm	$METHOD	$METHOD	sibling	2	
+logistic_regression	support_vector_machine	$METHOD	$METHOD	sibling	2	
+decision_tree	logistic_regression	$METHOD	$METHOD	sibling	2	
+machine_learning	random_forests	$PROBLEM	$METHOD	ancestor	2	approaches:1|algorithms:1
+logistic_regression	random_forests	$METHOD	$METHOD	sibling	2	
+logistic_regression	random_forest	$METHOD	$METHOD	sibling	2	
+accuracy	f1_measure	$METRIC	$METRIC	sibling	2	
+data_mining	sequential_pattern_mining	$PROBLEM	$PROBLEM	ancestor	2	techniques:1|problems:1
+association_rule_mining	sequential_pattern_mining	$PROBLEM	$PROBLEM	sibling	2	
+f1-measure	recall	$METRIC	$METRIC	sibling	2	
+NMF	PCA	$METHOD	$METHOD	sibling	2	
+LDA	PCA	$METHOD	$METHOD	sibling	2	
+sequential_pattern_mining	prefixspan	$PROBLEM	$METHOD	ancestor	2	algorithms:1
+naive_bayes	random_forest	$METHOD	$METHOD	sibling	2	
+f1_measure	precision	$METRIC	$METRIC	sibling	2	
+boosting	adaboost	$METHOD	$METHOD	ancestor	2	methods:2
+boosting	svm	$METHOD	$METHOD	sibling	2	
+data_mining	decision_tree	$PROBLEM	$METHOD	ancestor	2	approaches:1|algorithms:1
+visualization	clustering	$PROBLEM	$PROBLEM	ancestor	2	tools:1
+adaboost	random_forests	$METHOD	$METHOD	sibling	2	
+supervised	support_vector_machine	$METHOD	$METHOD	ancestor	2	algorithms:1|classifiers:1
+data_mining	similarity_search	$PROBLEM	$PROBLEM	ancestor	2	tasks:1|processes:1
+classification	similarity_search	$PROBLEM	$PROBLEM	sibling	2	
+machine_learning	naive_bayes	$PROBLEM	$METHOD	ancestor	2	methods:1|algorithms:1
+PCA	SVD	$METHOD	$METHOD	sibling	2	
+classification	data_mining	$PROBLEM	$PROBLEM	ancestor	2	
+linear_regression	neural_networks	$METHOD	$METHOD	sibling	2	
+machine_learning	visualization	$PROBLEM	$PROBLEM	sibling	2	
+classification	decision_tree	$PROBLEM	$METHOD	ancestor	2	algorithms:1
+decision_tree	support_vector_machine	$METHOD	$METHOD	sibling	2	
+data_mining	recommendation	$PROBLEM	$PROBLEM	sibling	2	
+classification	recommendation	$PROBLEM	$PROBLEM	sibling	2	
+boosting	svms	$METHOD	$METHOD	sibling	2	
+regression	linear_regression	$PROBLEM	$METHOD	ancestor	2	models:1|algorithms:1
+clustering	singular_value_decomposition	$PROBLEM	$METHOD	ancestor	2	algorithms:2
+MAP	f-measure	$METRIC	$METRIC	sibling	1	
+feature_extraction	feature_selection	$PROBLEM	$PROBLEM	sibling	1	
+matrix_factorization	tensor_factorization	$METHOD	$METHOD	sibling	1	
+tensor_factorization	PARAFAC	$METHOD	$METHOD	ancestor	1	techniques:1
+C4.5	adaboost	$METHOD	$METHOD	sibling	1	
+dimensionality_reduction	visualization	$PROBLEM	$PROBLEM	ancestor	1	
+feature_selection	visualization	$PROBLEM	$PROBLEM	sibling	1	
+semi-supervised_learning	unsupervised	$METHOD	$METHOD	sibling	1	
+frequent_itemset_mining	sequential_pattern_mining	$PROBLEM	$PROBLEM	sibling	1	
+SVD	knn	$METHOD	$METHOD	sibling	1	
+multi-class_classification	multi-label_classification	$PROBLEM	$PROBLEM	sibling	1	
+decision_trees	C4.5	$METHOD	$METHOD	ancestor	1	
+RMSE	root-mean-square_error	$METRIC	$METRIC	synonym	1	
+hierarchical_clustering	k-means_clustering	$METHOD	$METHOD	sibling	1	
+k-means_clustering	spectral_clustering	$METHOD	$METHOD	sibling	1	
+F1	f1_measure	$METRIC	$METRIC	synonym	1	
+image_classification	text_categorization	$PROBLEM	$PROBLEM	sibling	1	
+f1-score	precision	$METRIC	$METRIC	sibling	1	
+neural_networks	random_forests	$METHOD	$METHOD	sibling	1	
+random_forests	support_vector_machines	$METHOD	$METHOD	sibling	1	
+data_mining	link_prediction	$PROBLEM	$PROBLEM	ancestor	1	tasks:1
+LDA	logistic_regression	$METHOD	$METHOD	synonym	1	
+recommender_systems	stochastic_gradient_descent	$PROBLEM	$METHOD	ancestor	1	
+ensembles	random_forests	$METHOD	$METHOD	ancestor	1	
+naive_bayes	classification	$METHOD	$PROBLEM	ancestor	1	
+NMF	non_negative_matrix_factorization	$METHOD	$METHOD	synonym	1	
+matrix_factorization	SVD	$METHOD	$METHOD	ancestor	1	techniques:1
+linear_regression	naive_bayes	$METHOD	$METHOD	sibling	1	
+linear_regression	svm	$METHOD	$METHOD	sibling	1	
+decision_trees	linear_regression	$METHOD	$METHOD	sibling	1	
+community_detection	spectral_clustering	$PROBLEM	$METHOD	ancestor	1	algorithms:1
+ensemble	adaboost	$METHOD	$METHOD	ancestor	1	methods:1
+link_prediction	precision	$PROBLEM	$METRIC	ancestor	1	
+supervised_learning	naive_bayes	$METHOD	$METHOD	ancestor	1	approaches:1
+latent_dirichlet_allocation	matrix_factorization	$METHOD	$METHOD	sibling	1	
+AUC	MRR	$METRIC	$METRIC	sibling	1	
+anomaly_detection	regression	$PROBLEM	$PROBLEM	sibling	1	
+LDA	k-means	$METHOD	$METHOD	sibling	1	
+decision_trees	svms	$METHOD	$METHOD	sibling	1	
+document_clustering	k-means	$PROBLEM	$METHOD	ancestor	1	techniques:1
+coordinate_descent	non-negative_matrix_factorization	$METHOD	$METHOD	sibling	1	
+classification	neural_networks	$PROBLEM	$METHOD	ancestor	1	algorithms:1
+text_categorization	support_vector_machines	$PROBLEM	$METHOD	ancestor	1	
+closet	fp-growth	$METHOD	$METHOD	sibling	1	
+matrix_factorization	non-negative_matrix_factorization	$METHOD	$METHOD	ancestor	1	techniques:1
+anomaly_detection	visualization	$PROBLEM	$PROBLEM	sibling	1	
+svm	machine_learning	$METHOD	$PROBLEM	ancestor	1	
+AUC	f-measure	$METRIC	$METRIC	sibling	1	
+area_under_curve	precision	$METRIC	$METRIC	sibling	1	
+area_under_curve	recall	$METRIC	$METRIC	sibling	1	
+area_under_curve	f-measure	$METRIC	$METRIC	sibling	1	
+binary_classification	precision	$PROBLEM	$METRIC	ancestor	1	
+binary_classification	recall	$PROBLEM	$METRIC	ancestor	1	
+binary_classification	f-measure	$PROBLEM	$METRIC	ancestor	1	
+bootstrapping	bagging	$METHOD	$METHOD	ancestor	1	
+accuracy	specificity	$METRIC	$METRIC	sibling	1	
+recommender_systems	bayesian_networks	$PROBLEM	$METHOD	ancestor	1	
+recommender_systems	clustering	$PROBLEM	$PROBLEM	ancestor	1	
+bayesian_networks	neural_networks	$METHOD	$METHOD	sibling	1	
+non-negative_matrix_factorization	spectral_clustering	$METHOD	$METHOD	sibling	1	
+kernel_k-means	spectral_clustering	$METHOD	$METHOD	sibling	1	
+NMF	kernel_k-means	$METHOD	$METHOD	sibling	1	
+NMF	spectral_clustering	$METHOD	$METHOD	sibling	1	
+naive_bayes	neural_networks	$METHOD	$METHOD	sibling	1	
+accuracy	area_under_curve	$METRIC	$METRIC	sibling	1	
+clustering	frequent_itemset_mining	$PROBLEM	$PROBLEM	sibling	1	
+data_mining	regression_analysis	$PROBLEM	$PROBLEM	sibling	1	
+decision_trees	CART	$METHOD	$METHOD	ancestor	1	
+data_mining	matrix_factorization	$PROBLEM	$METHOD	ancestor	1	techniques:1
+clustering	multi-class_classification	$PROBLEM	$PROBLEM	sibling	1	
+naive_bayes	svms	$METHOD	$METHOD	sibling	1	
+unsupervised	LDA	$METHOD	$METHOD	ancestor	1	models:1
+adaboost	decision_tree	$METHOD	$METHOD	sibling	1	
+decision_tree	k-means	$METHOD	$METHOD	sibling	1	
+bayesian_networks	decision_trees	$METHOD	$METHOD	sibling	1	
+machine_learning	dimensionality_reduction	$PROBLEM	$PROBLEM	ancestor	1	tasks:1
+machine_learning	regression	$PROBLEM	$PROBLEM	ancestor	1	tasks:1
+classification	dimensionality_reduction	$PROBLEM	$PROBLEM	sibling	1	
+dbscan	k-means	$METHOD	$METHOD	sibling	1	
+clustering	sequential_pattern_mining	$PROBLEM	$PROBLEM	sibling	1	
+clustering	LDA	$PROBLEM	$METHOD	ancestor	1	methods:1
+LDA	NMF	$METHOD	$METHOD	sibling	1	
+f1-measure	precision	$METRIC	$METRIC	sibling	1	
+AUC	f1-measure	$METRIC	$METRIC	sibling	1	
+feature_extraction	singular_value_decomposition	$PROBLEM	$METHOD	ancestor	1	techniques:1
+NMI	accuracy	$METRIC	$METRIC	sibling	1	
+C4.5	decision_tree	$METHOD	$METHOD	ancestor	1	
+CART	decision_tree	$METHOD	$METHOD	ancestor	1	
+k-means	svm	$METHOD	$METHOD	sibling	1	
+closegraph	gspan	$METHOD	$METHOD	sibling	1	
+k-means	k-medoids	$METHOD	$METHOD	sibling	1	
+PCA	naive_bayes	$METHOD	$METHOD	sibling	1	
+data_mining	principal_component_analysis	$PROBLEM	$METHOD	ancestor	1	tasks:1
+data_mining	semi-supervised_learning	$PROBLEM	$METHOD	ancestor	1	
+matrix_factorization	PCA	$METHOD	$METHOD	ancestor	1	methods:1
+matrix_factorization	NMF	$METHOD	$METHOD	ancestor	1	methods:1
+boosting	naive_bayes	$METHOD	$METHOD	sibling	1	
+boosting	decision_trees	$METHOD	$METHOD	sibling	1	
+boosting	support_vector_machines	$METHOD	$METHOD	sibling	1	
+sequential_pattern_mining	SPADE	$PROBLEM	$METHOD	ancestor	1	
+apriori	prefixspan	$METHOD	$METHOD	sibling	1	
+data_mining	spam_detection	$PROBLEM	$PROBLEM	ancestor	1	applications:1
+C4.5	random_forest	$METHOD	$METHOD	sibling	1	
+feature_selection	machine_learning	$PROBLEM	$PROBLEM	sibling	1	
+accuracy	F1	$METRIC	$METRIC	ancestor	1	measures:1
+f1_measure	recall	$METRIC	$METRIC	sibling	1	
+classification	random_forests	$PROBLEM	$METHOD	ancestor	1	methods:1
+naive_bayes	random_forests	$METHOD	$METHOD	sibling	1	
+classification	random_forest	$PROBLEM	$METHOD	ancestor	1	methods:1
+supervised_learning	boosting	$METHOD	$METHOD	ancestor	1	
+data_mining	svm	$PROBLEM	$METHOD	ancestor	1	approaches:1
+classification	community_detection	$PROBLEM	$PROBLEM	sibling	1	
+community_detection	outlier_detection	$PROBLEM	$PROBLEM	sibling	1	
+NDCG	normalized_discounted_cumulative_gain_measure	$METRIC	$METRIC	synonym	1	
+accuracy	information_gain	$METRIC	$METRIC	sibling	1	
+f1_measure	information_gain	$METRIC	$METRIC	sibling	1	
+supervised_learning	precision	$METHOD	$METRIC	ancestor	1	measures:1
+adaboost	random_forest	$METHOD	$METHOD	sibling	1	
+regression	random_forests	$PROBLEM	$METHOD	ancestor	1	
+regression	adaboost	$PROBLEM	$METHOD	ancestor	1	
+ensembles	neural_networks	$METHOD	$METHOD	sibling	1	
+C4.5	svm	$METHOD	$METHOD	sibling	1	
+clustering	similarity_search	$PROBLEM	$PROBLEM	sibling	1	
+association_mining	clustering	$PROBLEM	$PROBLEM	sibling	1	
+machine_learning	linear_regression	$PROBLEM	$METHOD	ancestor	1	algorithms:1
+DCG	MAP	$METRIC	$METRIC	sibling	1	
+discounted_cumulative_gain	mean_average_precision	$METRIC	$METRIC	sibling	1	
+DCG	discounted_cumulative_gain_measure	$METRIC	$METRIC	synonym	1	
+data_mining	dimensionality_reduction	$PROBLEM	$PROBLEM	sibling	1	
+coordinate_descent	stochastic_gradient_descent	$METHOD	$METHOD	sibling	1	
+decision_trees	bagging	$METHOD	$METHOD	ancestor	1	
+accuracy	purity	$METRIC	$METRIC	sibling	1	
+data_mining	neural_networks	$PROBLEM	$METHOD	ancestor	1	techniques:1
+supervised_learning	logistic_regression	$METHOD	$METHOD	ancestor	1	techniques:1
+supervised_learning	artificial_neural_networks	$METHOD	$METHOD	ancestor	1	techniques:1
+artificial_neural_networks	logistic_regression	$METHOD	$METHOD	sibling	1	
+clustering	visualization	$PROBLEM	$PROBLEM	sibling	1	
+C4.5	ID3	$METHOD	$METHOD	sibling	1	
+mean_average_precision	precision	$METRIC	$METRIC	sibling	1	
+NDCG	recall	$METRIC	$METRIC	sibling	1	
+MAP	recall	$METRIC	$METRIC	sibling	1	
+MAP	precision	$METRIC	$METRIC	sibling	1	
+classification	sequential_pattern_mining	$PROBLEM	$PROBLEM	sibling	1	
+ensembles	bagging	$METHOD	$METHOD	ancestor	1	
+ensembles	boosting	$METHOD	$METHOD	ancestor	1	
+supervised_learning	supervised	$METHOD	$METHOD	ancestor	1	models:1
+data_science	machine_learning	$PROBLEM	$PROBLEM	sibling	1	
+clustering	data_mining	$PROBLEM	$PROBLEM	ancestor	1	
+machine_learning	recommender_systems	$PROBLEM	$PROBLEM	sibling	1	
+binary_classification	regression	$PROBLEM	$PROBLEM	sibling	1	
+tensor_decomposition	PARAFAC	$METHOD	$METHOD	ancestor	1	methods:1
+tensor_factorization	regression	$METHOD	$PROBLEM	ancestor	1	
+unsupervised	PCA	$METHOD	$METHOD	ancestor	1	techniques:1
+decision_tree	CART	$METHOD	$METHOD	ancestor	1	systems:1
+data_mining	fraud_detection	$PROBLEM	$PROBLEM	ancestor	1	problems:1
+association_mining	apriori	$PROBLEM	$METHOD	ancestor	1	approaches:1
+accuracy	root_mean_square_error	$METRIC	$METRIC	ancestor	1	metrics:1
+matrix_factorization	topic_model	$METHOD	$METHOD	sibling	1	
+classification	entity_recognition	$PROBLEM	$PROBLEM	sibling	1	
+regression	random_forest	$PROBLEM	$METHOD	ancestor	1	models:1
+TPR	truepositive_rate	$METRIC	$METRIC	synonym	1	
+FPR	false-positive_rate	$METRIC	$METRIC	synonym	1	
+anomaly_detection	machine_learning	$PROBLEM	$PROBLEM	sibling	1	
+mean_average_precision	mean_reciprocal_rank	$METRIC	$METRIC	sibling	1	
+supervised_learning	svms	$METHOD	$METHOD	ancestor	1	algorithms:1
+supervised	naive_bayes	$METHOD	$METHOD	ancestor	1	models:1
+artificial_neural_networks	support_vector_machines	$METHOD	$METHOD	sibling	1	
+bagging	ensemble	$METHOD	$METHOD	sibling	1	
+classification	unsupervised_learning	$PROBLEM	$METHOD	ancestor	1	
+feature_extraction	principal_components_analysis	$PROBLEM	$METHOD	ancestor	1	methods:1
+boosting	neural_networks	$METHOD	$METHOD	sibling	1	
+neural_networks	svms	$METHOD	$METHOD	sibling	1	
+decision_tree	neural_networks	$METHOD	$METHOD	sibling	1	
+fraud_detection	spam_detection	$PROBLEM	$PROBLEM	sibling	1	
+clustering	recommendation	$PROBLEM	$PROBLEM	sibling	1	
+frequent_itemset_mining	eclat	$PROBLEM	$METHOD	ancestor	1	algorithms:1
+knn	naive_bayes	$METHOD	$METHOD	sibling	1	
+decision_tree	random_forest	$METHOD	$METHOD	sibling	1	
+f-score	f1_measure	$METRIC	$METRIC	synonym	1	
+machine_learning	ensemble	$PROBLEM	$METHOD	ancestor	1	techniques:1
+ensemble	svm	$METHOD	$METHOD	sibling	1	
+decision_trees	random_forest	$METHOD	$METHOD	sibling	1	
+random_forest	svm	$METHOD	$METHOD	sibling	1	
+data_mining	mining_association_rules	$PROBLEM	$PROBLEM	ancestor	1	tasks:1
+recall	specificity	$METRIC	$METRIC	sibling	1	
+normalized_discounted_cumulative_gain	precision	$METRIC	$METRIC	sibling	1	
+normalized_discounted_cumulative_gain	recall	$METRIC	$METRIC	sibling	1	
+regression	neural_networks	$PROBLEM	$METHOD	ancestor	1	algorithms:1
+CART	neural_networks	$METHOD	$METHOD	sibling	1	
+topic_model	latent_dirichlet_allocation	$METHOD	$METHOD	ancestor	1	
+anomaly_detection	classification	$PROBLEM	$PROBLEM	sibling	1	
+link_prediction	recommendation	$PROBLEM	$PROBLEM	sibling	1	
+micro-f1	precision	$METRIC	$METRIC	sibling	1	
+micro-f1	recall	$METRIC	$METRIC	sibling	1	
+data_mining	supervised_learning	$PROBLEM	$METHOD	ancestor	1	techniques:1
+data_mining	unsupervised_learning	$PROBLEM	$METHOD	ancestor	1	techniques:1
+supervised_learning	unsupervised_learning	$METHOD	$METHOD	sibling	1	
+supervised	support_vector_machines	$METHOD	$METHOD	ancestor	1	methods:1
+supervised_learning	decision_trees	$METHOD	$METHOD	ancestor	1	
+dbscan	knn	$METHOD	$METHOD	sibling	1	
+f-measure	f1-score	$METRIC	$METRIC	synonym	1	
+f1-score	recall	$METRIC	$METRIC	sibling	1	
+artificial_intelligence	machine_learning	$PROBLEM	$PROBLEM	ancestor	1	
+supervised_learning	svm	$METHOD	$METHOD	ancestor	1	models:1
+multiclass_classification	regression	$PROBLEM	$PROBLEM	sibling	1	
+f1_score	recall	$METRIC	$METRIC	sibling	1	

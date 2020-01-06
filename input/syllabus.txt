@@ -1,0 +1,215 @@
+data science-->PROBLEM
+ child_data mining-->PROBLEM
+  child_frequent pattern mining-->PROBLEM
+   synonym_mining frequent patterns-->PROBLEM
+   concept_frequent patterns-->CONCEPT
+   child_frequent itemset mining-->PROBLEM
+    synonym_mining frequent itemsets-->PROBLEM
+    concept_frequent itemsets-->CONCEPT
+    model_apriori-->METHOD
+    model_eclat-->METHOD
+    model_fp-growth-->METHOD
+   child_mining closed patterns-->PROBLEM
+    concept_closed patterns-->CONCEPT
+    model_closet-->METHOD
+    model_closet +-->METHOD
+   child_sequential pattern mining-->PROBLEM
+    synonym_mining sequential patterns-->PROBLEM
+    model_GSP-->METHOD
+    model_SPADE-->METHOD
+    model_prefixspan-->METHOD
+   child_subgraph pattern mining-->PROBLEM
+    synonym_subgraph mining-->PROBLEM
+    model_closegraph-->METHOD
+    model_gspan-->METHOD
+    model_clospan-->METHOD
+  child_association rule mining-->PROBLEM
+   synonym_association mining-->PROBLEM
+   synonym_mining association rules-->PROBLEM
+  child_classification-->PROBLEM
+   task_text categorization-->PROBLEM
+   task_image classification-->PROBLEM
+   task_face recognition-->PROBLEM
+   task_spam detection-->PROBLEM
+   task_fraud detection-->PROBLEM
+   task_entity recognition-->PROBLEM
+   task_relation extraction-->PROBLEM
+    synonym_relational classification-->PROBLEM
+    synonym_relation classification-->PROBLEM
+   model_knn-->METHOD
+    synonym_k nearest neighbor-->METHOD
+   model_decision trees-->METHOD
+    synonym_decision tree-->METHOD
+    child_CART-->METHOD
+     concept_gini index-->CONCEPT
+    child_ID3-->METHOD
+     concept_information gain-->CONCEPT
+    child_C4.5-->METHOD
+     concept_gain ratio-->CONCEPT
+   model_bayesian learning-->METHOD
+    concept_bayes theorem-->CONCEPT
+    child_naive bayes-->METHOD
+     synonym_NB-->METHOD
+    child_bayesian networks-->METHOD
+   model_generative model-->METHOD
+    child_MLE-->METHOD
+     synonym_maximum likelihood estimation-->METHOD
+    child_topic model-->METHOD
+     synonym_topic models-->METHOD
+     child_LDA-->METHOD
+      synonym_latent dirichlet allocation-->METHOD
+   model_support vector machines-->METHOD
+    synonym_support vector machine-->METHOD
+    synonym_svms-->METHOD
+    synonym_svm-->METHOD
+    child_linear svm-->METHOD
+    child_kernel svm-->METHOD
+    child_ls-svm-->METHOD
+     synonym_least squares support vector machine-->METHOD
+    child_vmls-svm-->METHOD
+    child_libsvm-->METHOD
+   model_artificial neural networks-->METHOD
+    synonym_neural networks-->METHOD
+    concept_activation-->CONCEPT
+     child_sigmoid-->CONCEPT
+     child_tanh-->CONCEPT
+    concept_hidden layer-->CONCEPT
+     synonym_hidden layers-->CONCEPT
+    child_perceptron-->METHOD
+   model_ensembles-->METHOD
+    synonym_ensemble-->METHOD
+    child_bagging-->METHOD
+     child_random forests-->METHOD
+      synonym_random forest-->METHOD
+    child_boosting-->METHOD
+     child_adaboost-->METHOD
+    child_bootstrapping-->METHOD
+   validation_hold-out validation-->METHOD
+   validation_cross validation-->METHOD
+   measure_accuracy-->METRIC
+   measure_specificity-->METRIC
+   measure_TPR-->METRIC
+    synonym_truepositive rate-->METRIC
+    synonym_true positive rate-->METRIC
+    synonym_sensitivity-->METRIC
+   measure_FPR-->METRIC
+    synonym_false positive rate-->METRIC
+    synonym_false-positive rate-->METRIC
+   measure_precision-->METRIC
+   measure_recall-->METRIC
+   measure_f measure-->METRIC
+    synonym_f-measure-->METRIC
+    synonym_f-score-->METRIC
+    child_F1-->METRIC
+     synonym_f1 measure-->METRIC
+     synonym_f1-measure-->METRIC
+     synonym_f1 score-->METRIC
+     synonym_f1-score-->METRIC
+     child_micro f1-->METRIC
+      synonym_micro-f1-->METRIC
+     child_macro f1-->METRIC
+      synonym_macro-f1-->METRIC
+   measure_AUC-->METRIC
+    synonym_area under the curve-->METRIC
+    synonym_area under curve-->METRIC
+   measure_MRR-->METRIC
+    synonym_mean reciprocal rank-->METRIC
+   measure_MAP-->METRIC
+    synonym_mean average precision-->METRIC
+   measure_DCG-->METRIC
+    synonym_discounted cumulative gain-->METRIC
+    synonym_discounted cumulative gain measure-->METRIC
+    child_NDCG-->METRIC
+     synonym_normalized discounted cumulative gain-->METRIC
+     synonym_normalized discounted cumulative gain measure-->METRIC
+     child_NDCG @ k-->METRIC
+   measure_MAE-->METRIC
+    synonym_mean absolute error-->METRIC
+   measure_RMSE-->METRIC
+    synonym_root mean squared error-->METRIC
+    synonym_root mean square error-->METRIC
+    synonym_root-mean-square error-->METRIC
+   measure_robustness-->METRIC
+   child_binary classification-->PROBLEM
+   child_multi-class classification-->PROBLEM
+    synonym_multi-label classification-->PROBLEM
+    synonym_multiclass classification-->PROBLEM
+    synonym_multilabel classification-->PROBLEM
+  child_regression-->PROBLEM
+   synonym_regression analysis-->PROBLEM
+   model_linear regression-->METHOD
+   model_non-linear regression-->METHOD
+    child_logistic regression-->METHOD
+    child_gaussian process regression-->METHOD
+    child_SVR-->METHOD
+     synonym_support vector regression-->METHOD
+   model_multivariate regression-->METHOD
+  child_clustering-->PROBLEM
+   synonym_cluster analysis-->PROBLEM
+   task_community detection-->PROBLEM
+   task_document clustering-->PROBLEM
+   model_k-partitioning-->METHOD
+    child_k-means clustering-->METHOD
+     synonym_k-means-->METHOD
+     child_kernel k-means-->METHOD
+    child_k-medoids clustering-->METHOD
+     synonym_k-medoids-->METHOD
+   model_density-based clustering-->METHOD
+    child_dbscan-->METHOD
+   model_hierarchical clustering-->METHOD
+   model_spectral clustering-->METHOD
+    child_principal component analysis-->METHOD
+     synonym_principal components analysis-->METHOD
+     synonym_PCA-->METHOD
+     concept_principal components-->CONCEPT
+    child_singular value decomposition-->METHOD
+     synonym_SVD-->METHOD
+    child_matrix factorization-->METHOD
+     child_gradient descent-->METHOD
+      child_SGD-->METHOD
+       synonym_stochastic gradient descent-->METHOD
+       child_CSGD-->METHOD
+        synonym_constrained stochastic gradient descent-->METHOD
+     child_coordinate descent-->METHOD
+      child_dual coordinate descent-->METHOD
+      child_block coordinate gradient descent-->METHOD
+     child_NMF-->METHOD
+      synonym_nonnegative matrix factorization-->METHOD
+      synonym_non negative matrix factorization-->METHOD
+      synonym_non-negative matrix factorization-->METHOD
+     child_PMF-->METHOD
+      synonym_probabilistic matrix factorization-->METHOD
+    child_tensor factorization-->METHOD
+     synonym_tensor decomposition-->METHOD
+     child_PARAFAC-->METHOD
+   measure_rand index-->METRIC
+    child_adjusted rand index-->METRIC
+   measure_NMI-->METRIC
+    synonym_normalized mutual information-->METRIC
+   measure_purity-->METRIC
+  child_outlier detection-->PROBLEM
+   synonym_outlier analysis-->PROBLEM
+   synonym_anomaly detection-->PROBLEM
+  child_visualization-->PROBLEM
+  child_dimensionality reduction-->PROBLEM
+   synonym_feature reduction-->PROBLEM
+   child_feature selection-->PROBLEM
+   child_feature extraction-->PROBLEM
+  child_similarity search-->PROBLEM
+  child_recommender systems-->PROBLEM
+   synonym_recommendation-->PROBLEM
+   synonym_recommendation systems-->PROBLEM
+   child_link recommendation-->PROBLEM
+  child_link prediction-->PROBLEM
+  child_link detection-->PROBLEM
+ child_machine learning-->PROBLEM
+  model_supervised learning-->METHOD
+   synonym_supervised-->METHOD
+  model_semi-supervised learning-->METHOD
+   synonym_semi supervised learning-->METHOD
+   synonym_semi-supervised-->METHOD
+   synonym_semi supervised-->METHOD
+  model_unsupervised learning-->METHOD
+   synonym_unsupervised-->METHOD
+ child_artificial intelligence-->PROBLEM
+ child_knowledge discovery-->PROBLEM

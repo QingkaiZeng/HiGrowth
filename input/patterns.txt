@@ -1,0 +1,423 @@
+$ ( $ )	synonym_1_2_F
+$ and $ <pl>	sibling_1_2_T
+$ or $ <pl>	sibling_1_2_T
+<pl> such as $ , $	sibling_1_2_T
+<pl> such as $ and $	sibling_1_2_T
+<pl> such as $ or $	sibling_1_2_T
+<pl> such as $ , $ , $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> such as $ , $ and $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> such as $ , $ , and $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> such as $ , $ or $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> such as $ , $ , or $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> such as $ , $ , $ , $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> such as $ , $ , $ and $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> such as $ , $ , $ , and $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> such as $ , $ , $ or $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> such as $ , $ , $ , or $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> including $ , $	sibling_1_2_T
+<pl> including $ and $	sibling_1_2_T
+<pl> including $ or $	sibling_1_2_T
+<pl> including $ , $ , $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> including $ , $ and $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> including $ , $ , and $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> including $ , $ or $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> including $ , $ , or $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> including $ , $ , $ , $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> including $ , $ , $ and $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> including $ , $ , $ , and $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> including $ , $ , $ or $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> including $ , $ , $ , or $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> especially $ , $	sibling_1_2_T
+<pl> especially $ and $	sibling_1_2_T
+<pl> especially $ or $	sibling_1_2_T
+<pl> especially $ , $ , $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> especially $ , $ and $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> especially $ , $ , and $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> especially $ , $ or $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> especially $ , $ , or $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> especially $ , $ , $ , $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> especially $ , $ , $ and $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> especially $ , $ , $ , and $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> especially $ , $ , $ or $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> especially $ , $ , $ , or $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> , such as $ , $	sibling_1_2_T
+<pl> , such as $ and $	sibling_1_2_T
+<pl> , such as $ or $	sibling_1_2_T
+<pl> , such as $ , $ , $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> , such as $ , $ and $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> , such as $ , $ , and $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> , such as $ , $ or $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> , such as $ , $ , or $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> , such as $ , $ , $ , $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> , such as $ , $ , $ and $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> , such as $ , $ , $ , and $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> , such as $ , $ , $ or $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> , such as $ , $ , $ , or $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> , including $ , $	sibling_1_2_T
+<pl> , including $ and $	sibling_1_2_T
+<pl> , including $ or $	sibling_1_2_T
+<pl> , including $ , $ , $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> , including $ , $ and $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> , including $ , $ , and $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> , including $ , $ or $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> , including $ , $ , or $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> , including $ , $ , $ , $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> , including $ , $ , $ and $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> , including $ , $ , $ , and $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> , including $ , $ , $ or $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> , including $ , $ , $ , or $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> , especially $ , $	sibling_1_2_T
+<pl> , especially $ and $	sibling_1_2_T
+<pl> , especially $ or $	sibling_1_2_T
+<pl> , especially $ , $ , $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> , especially $ , $ and $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> , especially $ , $ , and $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> , especially $ , $ or $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> , especially $ , $ , or $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+<pl> , especially $ , $ , $ , $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> , especially $ , $ , $ and $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> , especially $ , $ , $ , and $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> , especially $ , $ , $ or $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+<pl> , especially $ , $ , $ , or $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+such as $ , $	sibling_1_2_F
+such as $ and $	sibling_1_2_F
+such as $ or $	sibling_1_2_F
+such as $ , $ , $	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+such as $ , $ and $	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+such as $ , $ , and $	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+such as $ , $ or $	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+such as $ , $ , or $	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+such as $ , $ , $ , $	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+such as $ , $ , $ and $	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+such as $ , $ , $ , and $	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+such as $ , $ , $ or $	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+such as $ , $ , $ , or $	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+including $ , $	sibling_1_2_F
+including $ and $	sibling_1_2_F
+including $ or $	sibling_1_2_F
+including $ , $ , $	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+including $ , $ and $	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+including $ , $ , and $	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+including $ , $ or $	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+including $ , $ , or $	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+including $ , $ , $ , $	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+including $ , $ , $ and $	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+including $ , $ , $ , and $	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+including $ , $ , $ or $	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+including $ , $ , $ , or $	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+especially $ , $	sibling_1_2_F
+especially $ and $	sibling_1_2_F
+especially $ or $	sibling_1_2_F
+especially $ , $ , $	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+especially $ , $ and $	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+especially $ , $ , and $	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+especially $ , $ or $	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+especially $ , $ , or $	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+especially $ , $ , $ , $	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+especially $ , $ , $ and $	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+especially $ , $ , $ , and $	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+especially $ , $ , $ or $	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+especially $ , $ , $ , or $	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+such <pl> as $ , $	sibling_1_2_T
+such <pl> as $ and $	sibling_1_2_T
+such <pl> as $ or $	sibling_1_2_T
+such <pl> as $ , $ , $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+such <pl> as $ , $ and $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+such <pl> as $ , $ , and $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+such <pl> as $ , $ or $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+such <pl> as $ , $ , or $	sibling_1_2_T	sibling_1_3_T	sibling_2_3_T
+such <pl> as $ , $ , $ , $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+such <pl> as $ , $ , $ and $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+such <pl> as $ , $ , $ , and $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+such <pl> as $ , $ , $ or $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+such <pl> as $ , $ , $ , or $	sibling_1_2_T	sibling_1_3_T	sibling_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> such as $	ancestor_1_2_T
+$ <pl> such as $ , $	ancestor_1_2_T	ancestor_1_3_T	sibling_2_3_T
+$ <pl> such as $ and $	ancestor_1_2_T	ancestor_1_3_T	sibling_2_3_T
+$ <pl> such as $ or $	ancestor_1_2_T	ancestor_1_3_T	sibling_2_3_T
+$ <pl> such as $ , $ , $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> such as $ , $ and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> such as $ , $ , and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> such as $ , $ or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> such as $ , $ , or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> such as $ , $ , $ , $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> such as $ , $ , $ and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> such as $ , $ , $ , and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> such as $ , $ , $ or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> such as $ , $ , $ , or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> including $	ancestor_1_2_T
+$ <pl> including $ , $	ancestor_1_2_T	ancestor_1_3_T	sibling_2_3_T
+$ <pl> including $ and $	ancestor_1_2_T	ancestor_1_3_T	sibling_2_3_T
+$ <pl> including $ or $	ancestor_1_2_T	ancestor_1_3_T	sibling_2_3_T
+$ <pl> including $ , $ , $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> including $ , $ and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> including $ , $ , and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> including $ , $ or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> including $ , $ , or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> including $ , $ , $ , $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> including $ , $ , $ and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> including $ , $ , $ , and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> including $ , $ , $ or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> including $ , $ , $ , or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> especially $	ancestor_1_2_T
+$ <pl> especially $ , $	ancestor_1_2_T	ancestor_1_3_T	sibling_2_3_T
+$ <pl> especially $ and $	ancestor_1_2_T	ancestor_1_3_T	sibling_2_3_T
+$ <pl> especially $ or $	ancestor_1_2_T	ancestor_1_3_T	sibling_2_3_T
+$ <pl> especially $ , $ , $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> especially $ , $ and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> especially $ , $ , and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> especially $ , $ or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> especially $ , $ , or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> especially $ , $ , $ , $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> especially $ , $ , $ and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> especially $ , $ , $ , and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> especially $ , $ , $ or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> especially $ , $ , $ , or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> , such as $	ancestor_1_2_T
+$ <pl> , such as $ , $	ancestor_1_2_T	ancestor_1_3_T	sibling_2_3_T
+$ <pl> , such as $ and $	ancestor_1_2_T	ancestor_1_3_T	sibling_2_3_T
+$ <pl> , such as $ or $	ancestor_1_2_T	ancestor_1_3_T	sibling_2_3_T
+$ <pl> , such as $ , $ , $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> , such as $ , $ and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> , such as $ , $ , and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> , such as $ , $ or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> , such as $ , $ , or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> , such as $ , $ , $ , $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> , such as $ , $ , $ and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> , such as $ , $ , $ , and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> , such as $ , $ , $ or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> , such as $ , $ , $ , or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> , including $	ancestor_1_2_T
+$ <pl> , including $ , $	ancestor_1_2_T	ancestor_1_3_T	sibling_2_3_T
+$ <pl> , including $ and $	ancestor_1_2_T	ancestor_1_3_T	sibling_2_3_T
+$ <pl> , including $ or $	ancestor_1_2_T	ancestor_1_3_T	sibling_2_3_T
+$ <pl> , including $ , $ , $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> , including $ , $ and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> , including $ , $ , and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> , including $ , $ or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> , including $ , $ , or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> , including $ , $ , $ , $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> , including $ , $ , $ and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> , including $ , $ , $ , and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> , including $ , $ , $ or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> , including $ , $ , $ , or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> , especially $	ancestor_1_2_T
+$ <pl> , especially $ , $	ancestor_1_2_T	ancestor_1_3_T	sibling_2_3_T
+$ <pl> , especially $ and $	ancestor_1_2_T	ancestor_1_3_T	sibling_2_3_T
+$ <pl> , especially $ or $	ancestor_1_2_T	ancestor_1_3_T	sibling_2_3_T
+$ <pl> , especially $ , $ , $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> , especially $ , $ and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> , especially $ , $ , and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> , especially $ , $ or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> , especially $ , $ , or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	sibling_2_3_T	sibling_2_4_T	sibling_3_4_T
+$ <pl> , especially $ , $ , $ , $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> , especially $ , $ , $ and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> , especially $ , $ , $ , and $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> , especially $ , $ , $ or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ <pl> , especially $ , $ , $ , or $	ancestor_1_2_T	ancestor_1_3_T	ancestor_1_4_T	ancestor_1_5_T	sibling_2_3_T	sibling_2_4_T	sibling_2_5_T	sibling_3_4_T	sibling_3_5_T	sibling_4_5_T
+$ such as $	ancestor_1_2_F
+$ such as $ , $	ancestor_1_2_F	ancestor_1_3_F	sibling_2_3_F
+$ such as $ and $	ancestor_1_2_F	ancestor_1_3_F	sibling_2_3_F
+$ such as $ or $	ancestor_1_2_F	ancestor_1_3_F	sibling_2_3_F
+$ such as $ , $ , $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ such as $ , $ and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ such as $ , $ , and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ such as $ , $ or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ such as $ , $ , or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ such as $ , $ , $ , $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ such as $ , $ , $ and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ such as $ , $ , $ , and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ such as $ , $ , $ or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ such as $ , $ , $ , or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ including $	ancestor_1_2_F
+$ including $ , $	ancestor_1_2_F	ancestor_1_3_F	sibling_2_3_F
+$ including $ and $	ancestor_1_2_F	ancestor_1_3_F	sibling_2_3_F
+$ including $ or $	ancestor_1_2_F	ancestor_1_3_F	sibling_2_3_F
+$ including $ , $ , $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ including $ , $ and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ including $ , $ , and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ including $ , $ or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ including $ , $ , or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ including $ , $ , $ , $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ including $ , $ , $ and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ including $ , $ , $ , and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ including $ , $ , $ or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ including $ , $ , $ , or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ especially $	ancestor_1_2_F
+$ especially $ , $	ancestor_1_2_F	ancestor_1_3_F	sibling_2_3_F
+$ especially $ and $	ancestor_1_2_F	ancestor_1_3_F	sibling_2_3_F
+$ especially $ or $	ancestor_1_2_F	ancestor_1_3_F	sibling_2_3_F
+$ especially $ , $ , $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ especially $ , $ and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ especially $ , $ , and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ especially $ , $ or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ especially $ , $ , or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ especially $ , $ , $ , $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ especially $ , $ , $ and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ especially $ , $ , $ , and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ especially $ , $ , $ or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ especially $ , $ , $ , or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ , such as $	ancestor_1_2_F
+$ , such as $ , $	ancestor_1_2_F	ancestor_1_3_F	sibling_2_3_F
+$ , such as $ and $	ancestor_1_2_F	ancestor_1_3_F	sibling_2_3_F
+$ , such as $ or $	ancestor_1_2_F	ancestor_1_3_F	sibling_2_3_F
+$ , such as $ , $ , $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , such as $ , $ and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , such as $ , $ , and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , such as $ , $ or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , such as $ , $ , or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , such as $ , $ , $ , $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ , such as $ , $ , $ and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ , such as $ , $ , $ , and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ , such as $ , $ , $ or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ , such as $ , $ , $ , or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ , including $	ancestor_1_2_F
+$ , including $ , $	ancestor_1_2_F	ancestor_1_3_F	sibling_2_3_F
+$ , including $ and $	ancestor_1_2_F	ancestor_1_3_F	sibling_2_3_F
+$ , including $ or $	ancestor_1_2_F	ancestor_1_3_F	sibling_2_3_F
+$ , including $ , $ , $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , including $ , $ and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , including $ , $ , and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , including $ , $ or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , including $ , $ , or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , including $ , $ , $ , $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ , including $ , $ , $ and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ , including $ , $ , $ , and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ , including $ , $ , $ or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ , including $ , $ , $ , or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ , especially $	ancestor_1_2_F
+$ , especially $ , $	ancestor_1_2_F	ancestor_1_3_F	sibling_2_3_F
+$ , especially $ and $	ancestor_1_2_F	ancestor_1_3_F	sibling_2_3_F
+$ , especially $ or $	ancestor_1_2_F	ancestor_1_3_F	sibling_2_3_F
+$ , especially $ , $ , $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , especially $ , $ and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , especially $ , $ , and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , especially $ , $ or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , especially $ , $ , or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , especially $ , $ , $ , $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ , especially $ , $ , $ and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ , especially $ , $ , $ , and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ , especially $ , $ , $ or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ , especially $ , $ , $ , or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+such $ as $	ancestor_1_2_F
+such $ as $ , $	ancestor_1_2_F	ancestor_1_3_F	sibling_2_3_F
+such $ as $ and $	ancestor_1_2_F	ancestor_1_3_F	sibling_2_3_F
+such $ as $ or $	ancestor_1_2_F	ancestor_1_3_F	sibling_2_3_F
+such $ as $ , $ , $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+such $ as $ , $ and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+such $ as $ , $ , and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+such $ as $ , $ or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+such $ as $ , $ , or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+such $ as $ , $ , $ , $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+such $ as $ , $ , $ and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+such $ as $ , $ , $ , and $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+such $ as $ , $ , $ or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+such $ as $ , $ , $ , or $	ancestor_1_2_F	ancestor_1_3_F	ancestor_1_4_F	ancestor_1_5_F	sibling_2_3_F	sibling_2_4_F	sibling_2_5_F	sibling_3_4_F	sibling_3_5_F	sibling_4_5_F
+$ and other $	ancestor_1_2_F
+$ , $ and other $	ancestor_1_3_F	ancestor_2_3_F	sibling_1_2_F
+$ and $ and other $	ancestor_1_3_F	ancestor_2_3_F	sibling_1_2_F
+$ or $ and other $	ancestor_1_3_F	ancestor_2_3_F	sibling_1_2_F
+$ , $ , $ and other $	ancestor_1_4_F	ancestor_2_4_F	ancestor_3_4_F	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ and $ and other $	ancestor_1_4_F	ancestor_2_4_F	ancestor_3_4_F	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , and $ and other $	ancestor_1_4_F	ancestor_2_4_F	ancestor_3_4_F	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ or $ and other $	ancestor_1_4_F	ancestor_2_4_F	ancestor_3_4_F	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , or $ and other $	ancestor_1_4_F	ancestor_2_4_F	ancestor_3_4_F	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , $ , $ and other $	ancestor_1_5_F	ancestor_2_5_F	ancestor_3_5_F	ancestor_4_5_F	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ and $ and other $	ancestor_1_5_F	ancestor_2_5_F	ancestor_3_5_F	ancestor_4_5_F	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ , and $ and other $	ancestor_1_5_F	ancestor_2_5_F	ancestor_3_5_F	ancestor_4_5_F	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ or $ and other $	ancestor_1_5_F	ancestor_2_5_F	ancestor_3_5_F	ancestor_4_5_F	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ , or $ and other $	ancestor_1_5_F	ancestor_2_5_F	ancestor_3_5_F	ancestor_4_5_F	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ or other $	ancestor_1_2_F
+$ , $ or other $	ancestor_1_3_F	ancestor_2_3_F	sibling_1_2_F
+$ and $ or other $	ancestor_1_3_F	ancestor_2_3_F	sibling_1_2_F
+$ or $ or other $	ancestor_1_3_F	ancestor_2_3_F	sibling_1_2_F
+$ , $ , $ or other $	ancestor_1_4_F	ancestor_2_4_F	ancestor_3_4_F	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ and $ or other $	ancestor_1_4_F	ancestor_2_4_F	ancestor_3_4_F	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , and $ or other $	ancestor_1_4_F	ancestor_2_4_F	ancestor_3_4_F	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ or $ or other $	ancestor_1_4_F	ancestor_2_4_F	ancestor_3_4_F	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , or $ or other $	ancestor_1_4_F	ancestor_2_4_F	ancestor_3_4_F	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , $ , $ or other $	ancestor_1_5_F	ancestor_2_5_F	ancestor_3_5_F	ancestor_4_5_F	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ and $ or other $	ancestor_1_5_F	ancestor_2_5_F	ancestor_3_5_F	ancestor_4_5_F	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ , and $ or other $	ancestor_1_5_F	ancestor_2_5_F	ancestor_3_5_F	ancestor_4_5_F	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ or $ or other $	ancestor_1_5_F	ancestor_2_5_F	ancestor_3_5_F	ancestor_4_5_F	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ , or $ or other $	ancestor_1_5_F	ancestor_2_5_F	ancestor_3_5_F	ancestor_4_5_F	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , and other $	ancestor_1_2_F
+$ , $ , and other $	ancestor_1_3_F	ancestor_2_3_F	sibling_1_2_F
+$ and $ , and other $	ancestor_1_3_F	ancestor_2_3_F	sibling_1_2_F
+$ or $ , and other $	ancestor_1_3_F	ancestor_2_3_F	sibling_1_2_F
+$ , $ , $ , and other $	ancestor_1_4_F	ancestor_2_4_F	ancestor_3_4_F	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ and $ , and other $	ancestor_1_4_F	ancestor_2_4_F	ancestor_3_4_F	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , and $ , and other $	ancestor_1_4_F	ancestor_2_4_F	ancestor_3_4_F	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ or $ , and other $	ancestor_1_4_F	ancestor_2_4_F	ancestor_3_4_F	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , or $ , and other $	ancestor_1_4_F	ancestor_2_4_F	ancestor_3_4_F	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , $ , $ , and other $	ancestor_1_5_F	ancestor_2_5_F	ancestor_3_5_F	ancestor_4_5_F	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ and $ , and other $	ancestor_1_5_F	ancestor_2_5_F	ancestor_3_5_F	ancestor_4_5_F	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ , and $ , and other $	ancestor_1_5_F	ancestor_2_5_F	ancestor_3_5_F	ancestor_4_5_F	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ or $ , and other $	ancestor_1_5_F	ancestor_2_5_F	ancestor_3_5_F	ancestor_4_5_F	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ , or $ , and other $	ancestor_1_5_F	ancestor_2_5_F	ancestor_3_5_F	ancestor_4_5_F	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , or other $	ancestor_1_2_F
+$ , $ , or other $	ancestor_1_3_F	ancestor_2_3_F	sibling_1_2_F
+$ and $ , or other $	ancestor_1_3_F	ancestor_2_3_F	sibling_1_2_F
+$ or $ , or other $	ancestor_1_3_F	ancestor_2_3_F	sibling_1_2_F
+$ , $ , $ , or other $	ancestor_1_4_F	ancestor_2_4_F	ancestor_3_4_F	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ and $ , or other $	ancestor_1_4_F	ancestor_2_4_F	ancestor_3_4_F	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , and $ , or other $	ancestor_1_4_F	ancestor_2_4_F	ancestor_3_4_F	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ or $ , or other $	ancestor_1_4_F	ancestor_2_4_F	ancestor_3_4_F	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , or $ , or other $	ancestor_1_4_F	ancestor_2_4_F	ancestor_3_4_F	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , $ , $ , or other $	ancestor_1_5_F	ancestor_2_5_F	ancestor_3_5_F	ancestor_4_5_F	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ and $ , or other $	ancestor_1_5_F	ancestor_2_5_F	ancestor_3_5_F	ancestor_4_5_F	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ , and $ , or other $	ancestor_1_5_F	ancestor_2_5_F	ancestor_3_5_F	ancestor_4_5_F	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ or $ , or other $	ancestor_1_5_F	ancestor_2_5_F	ancestor_3_5_F	ancestor_4_5_F	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ , or $ , or other $	ancestor_1_5_F	ancestor_2_5_F	ancestor_3_5_F	ancestor_4_5_F	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ and other <pl>	sibling_1_2_F
+$ and $ and other <pl>	sibling_1_2_F
+$ or $ and other <pl>	sibling_1_2_F
+$ , $ , $ and other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ and $ and other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , and $ and other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ or $ and other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , or $ and other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , $ , $ and other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ and $ and other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ , and $ and other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ or $ and other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ , or $ and other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ or other <pl>	sibling_1_2_F
+$ and $ or other <pl>	sibling_1_2_F
+$ or $ or other <pl>	sibling_1_2_F
+$ , $ , $ or other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ and $ or other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , and $ or other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ or $ or other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , or $ or other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , $ , $ or other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ and $ or other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ , and $ or other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ or $ or other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ , or $ or other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , and other <pl>	sibling_1_2_F
+$ and $ , and other <pl>	sibling_1_2_F
+$ or $ , and other <pl>	sibling_1_2_F
+$ , $ , $ , and other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ and $ , and other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , and $ , and other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ or $ , and other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , or $ , and other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , $ , $ , and other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ and $ , and other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ , and $ , and other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ or $ , and other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ , or $ , and other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , or other <pl>	sibling_1_2_F
+$ and $ , or other <pl>	sibling_1_2_F
+$ or $ , or other <pl>	sibling_1_2_F
+$ , $ , $ , or other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ and $ , or other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , and $ , or other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ or $ , or other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , or $ , or other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_2_3_F
+$ , $ , $ , $ , or other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ and $ , or other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ , and $ , or other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ or $ , or other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
+$ , $ , $ , or $ , or other <pl>	sibling_1_2_F	sibling_1_3_F	sibling_1_4_F	sibling_2_3_F	sibling_2_4_F	sibling_3_4_F
